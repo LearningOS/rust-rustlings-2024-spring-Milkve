@@ -7,7 +7,7 @@
 // Execute `rustlings hint move_semantics2` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
+
 
 // 1. You could make another, separate version of the data that's in `vec0` and pass that 
 // to `fill_vec` instead.
